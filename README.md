@@ -1,6 +1,6 @@
 ### Who am I? 👋
 
-![alt text](https://github.com/[Xohat]/[Xohat]/blob/[main]/banner.png?raw=true)
+![banner](https://github.com/Xohat/Xohat/blob/main/banner.png?raw=true)
 
 First of all welcome, im Xohat
 
