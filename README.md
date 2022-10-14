@@ -8,11 +8,11 @@
 - 🌱 I’m currently learning Javascript / C# / C++ by my university degree classes and a bit of Python by myself
 - 👯 I’m currently looking for a job in ideally videogame programming
 - 📫 How to reach me: Mainly via email at xohatlatte@gmail.com or discord at Xohat#2344
-
+<br />
 - ⚡ Additional facts: 
-- Avid consumer of Videogames and Manga/Anime
-- In terms of Videogames I especially like games of the MMORPG and Strategy games and Action games that are story focused
-- In terms of Manga anime I particuallrly like Berserk / Chainsaw man / Vagabond and Kingdom
+- Avid consumer of Videogames and Manga/Anime <br />
+- In terms of Videogames I especially like games of the MMORPG and Strategy games and Action games that are story focused <br />
+- In terms of Manga anime I particuallrly like Berserk / Chainsaw man / Vagabond and Kingdom <br />
 
 <!--
 **Xohat/Xohat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
