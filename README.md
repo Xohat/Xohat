@@ -9,7 +9,7 @@
 - 👯 I’m currently looking for a job in ideally videogame programming
 - 📫 How to reach me: Mainly via email at xohatlatte@gmail.com or discord at Xohat#2344
 <br />
-- ⚡ Additional facts: 
+<p align="center">⚡ Additional facts</p>
 <br />
 - Avid consumer of Videogames and Manga/Anime <br />
 - In terms of Videogames I especially like games of the MMORPG and Strategy games and Action games that are story focused <br />
