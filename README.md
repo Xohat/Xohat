@@ -5,7 +5,7 @@ First of all welcome, im Xohat
 - 🔭 I’m currently working on my end of degree proyect
 - 🌱 I’m currently learning Javascript / C# / C++ by my university degree classes and a bit of Python by myself
 - 👯 I’m currently looking for a job in ideally videogame programming
-- 📫 How to reach me: Mainly via email at xohatlatte@gmail.com
+- 📫 How to reach me: Mainly via email at xohatlatte@gmail.com or discord at Xohat#2344
 
 - ⚡ Additional facts: 
 - Avid consumer of Videogames and Manga/Anime
