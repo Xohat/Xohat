@@ -2,7 +2,7 @@
 
 ![banner](https://github.com/Xohat/Xohat/blob/main/banner.png?raw=true)
 
-First of all welcome, im Xohat
+<p align="center">First of all welcome, im Xohat</p>
 
 - 🔭 I’m currently working on my end of degree proyect
 - 🌱 I’m currently learning Javascript / C# / C++ by my university degree classes and a bit of Python by myself
