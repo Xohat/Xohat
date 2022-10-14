@@ -10,6 +10,7 @@
 - 📫 How to reach me: Mainly via email at xohatlatte@gmail.com or discord at Xohat#2344
 <br />
 - ⚡ Additional facts: 
+<br />
 - Avid consumer of Videogames and Manga/Anime 
 - In terms of Videogames I especially like games of the MMORPG and Strategy games and Action games that are story focused
 - In terms of Manga anime I particuallrly like Berserk / Chainsaw man / Vagabond and Kingdom
