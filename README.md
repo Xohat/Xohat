@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Javascript / C# / C++ by my university degree classes and a bit of Python by myself
 - 👯 I’m currently looking for a job in ideally videogame programming
-- 📫 How to reach me: Mainly via email at xohatlatte@gmail.com or discord at Xohat#2344
+- 📫 How to reach me: Mainly via at discord Xohat#2344 or email at xohatlatte@gmail.com
 <br />
 <p align="center">⚡ Additional facts</p>
 <br />
