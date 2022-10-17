@@ -1,4 +1,4 @@
-### <p align="center">First of all welcome, im Xohat formely known as Arturo</p>
+### <p align="center">First of all welcome, im Xohat</p>
 
 ### What am i currently working on? 👋
 
