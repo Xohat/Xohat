@@ -3,8 +3,7 @@
 ### What am i currently working on? 👋
 
 - 🔭 I’m currently working on my end of degree proyect
-$~$
-$~$
+- 
 ![banner](https://github.com/Xohat/Xohat/blob/main/banner.png?raw=true)
 
 - 🌱 I’m currently learning Javascript / C# / C++ by my university degree classes and a bit of Python by myself
