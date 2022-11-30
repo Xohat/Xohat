@@ -11,9 +11,9 @@
 
 ![banner](https://github.com/Xohat/Xohat/blob/main/The-Occultist-scaled.jpg?raw=true)
 - 📫 How to reach me: Mainly via at discord Xohat#2344 or email at xohatlatte@gmail.com
-<br />
+
 <p align="center">⚡ Additional facts</p>
-<br />
+
 - Avid consumer of Videogames and Manga/Anime <br />
 - In terms of Videogames I especially like games of the MMORPG and Strategy games and Action games that are story focused <br />
 - In terms of Manga I particularly like Berserk / Chainsaw man / Vagabond / Kingdom / Dorohedoro <br />
