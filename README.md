@@ -14,9 +14,11 @@
 <br />
 - Avid consumer of Videogames and Manga/Anime <br />
 - In terms of Videogames I especially like games of the MMORPG and Strategy games and Action games that are story focused <br />
-- In terms of Manga I particularly like Berserk / Chainsaw man / Vagabond and Kingdom <br />
+- In terms of Manga I particularly like Berserk / Chainsaw man / Vagabond / Kingdom / Dorohedoro <br />
 
 <!--
+
+
 **Xohat/Xohat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 formely known as Arturo
