@@ -7,9 +7,7 @@
 ![banner](https://github.com/Xohat/Xohat/blob/main/banner.png?raw=true)
 
 - 🌱 I’m currently learning Javascript / C# / C++ by my university degree classes and a bit of Python by myself
-- 👯 I’m currently on a Internship program on the videogame [The Occultist](https://theoccultist.com/)
-
-![banner](https://github.com/Xohat/Xohat/blob/main/The-Occultist-scaled.jpg?raw=true)
+- 👯 I’m currently jobless, but i want to focus on the end of my degree
 - 📫 How to reach me: Mainly via at discord Xohat#2344 or email at xohatlatte@gmail.com
 
 <p align="center">⚡ Additional facts</p>
