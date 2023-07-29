@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Javascript / C# / C++ by my university degree classes and a bit of Python by myself
 - 👯 I’m currently jobless and open for recruitment offers
-- 📫 How to reach me: Mainly via at discord Xohat#2344 or email at arturovilarc@gmail.com (Serious talk) / xohatlatte@gmail.com (Informal offer)
+- 📫 How to reach me: Mainly via at discord Xohat#2344 or email at arturovilarc@gmail.com (Serious talk) / xohatlatte@gmail.com (Informal talk)
 
 <p align="center">⚡ Additional facts</p>
 
