@@ -2,13 +2,13 @@
 
 ### What am i currently working on? 👋
 
-- 🔭 I’m currently working on my end of degree proyect
+- 🔭 I’m currently working on my end of degree proyect but im open for job offers
  
 ![banner](https://github.com/Xohat/Xohat/blob/main/banner.png?raw=true)
 
 - 🌱 I’m currently learning Javascript / C# / C++ by my university degree classes and a bit of Python by myself
-- 👯 I’m currently jobless, but i want to focus on the end of my degree
-- 📫 How to reach me: Mainly via at discord Xohat#2344 or email at xohatlatte@gmail.com
+- 👯 I’m currently jobless and open for recruitment offers
+- 📫 How to reach me: Mainly via at discord Xohat#2344 or email at arturovilarc@gmail.com (Serious talk) / xohatlatte@gmail.com (Informal offer)
 
 <p align="center">⚡ Additional facts</p>
 
