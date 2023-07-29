@@ -2,7 +2,7 @@
 
 ### What am i currently working on? 👋
 
-- 🔭 I’m currently working on my end of degree proyect but im open for job offers
+- 🔭 I’m currently working on my end of degree proyect until september but im open for job offers
  
 ![banner](https://github.com/Xohat/Xohat/blob/main/banner.png?raw=true)
 
