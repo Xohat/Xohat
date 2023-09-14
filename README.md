@@ -2,11 +2,12 @@
 
 ### What am i currently working on? 👋
 
-- 🔭 I’m currently working on my end of degree proyect until september but im open for job offers
+- 🔭 I have finished my videogame programming degree
+- The following is my end of degree proyect, due to the recent Unity monetization changes we will have to rebuild it using Unreal
  
 ![banner](https://github.com/Xohat/Xohat/blob/main/banner.png?raw=true)
 
-- 🌱 I’m currently learning Javascript / C# / C++ by my university degree classes and a bit of Python by myself
+- 🌱 I’m currently learning Data structures / Java / Python / Javascript
 - 👯 I’m currently jobless and open for recruitment offers
 - 📫 How to reach me: Mainly via at discord Xohat#2344 or email at arturovilarc@gmail.com (Serious talk) / xohatlatte@gmail.com (Informal talk)
 
