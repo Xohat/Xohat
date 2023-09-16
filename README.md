@@ -12,7 +12,7 @@ Videogame programmer / Software development
 ![banner](https://github.com/Xohat/Xohat/blob/main/banner.png?raw=true)
 
 * 🌍  I'm based in Madrid
-* ✉️  You can contact me at [arturovilarc@gmail.com](mailto:arturovilarc@gmail.com) for formal talk, and [cohatlatte@gmail.com](mailto:xohatlatte@gmail.com) for informal talk
+* ✉️  You can contact me at [arturovilarc@gmail.com](mailto:arturovilarc@gmail.com) for formal talk, and [xohatlatte@gmail.com](mailto:xohatlatte@gmail.com) for informal talk
 * 🧠  I'm learning Data structures, Java, Python, C# applied to .NET
 * 🤝  I'm open to collaborating on Proyects
 
