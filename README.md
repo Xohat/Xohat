@@ -7,11 +7,11 @@ Videogame programmer / Software development
 ### What am i currently working on? 👋
 
 - 🔭 I have finished my videogame programming degree
-- The following is my end of degree proyect, which will be released on a v1 version in not too long!
+- The following is my end of degree proyect, the following link will take you to it, hope you enjoy it! [Lost signal](https://ricardoaguadochena.itch.io/lostsignal)
  
 ![banner](https://github.com/Xohat/Xohat/blob/main/banner.png?raw=true)
 
-- Neon pit, the previous proyect from the same studio (Struggle Studio) will release shortly after on a v1 version too!
+- Neon pit, the previous proyect from the same studio (Struggle Studio) will release shortly on a v1 version too!
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [arturovilarc@gmail.com](mailto:arturovilarc@gmail.com) for formal talk, and [xohatlatte@gmail.com](mailto:xohatlatte@gmail.com) for informal talk
