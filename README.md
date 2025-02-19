@@ -6,6 +6,7 @@ Videogame programmer / Software development
 
 ### What am i currently working on? 👋
 
+- I am developing 
 - 🔭 I have finished my videogame programming degree
 - The following is my end of degree proyect, the following link will take you to it, hope you enjoy it! [Lost signal](https://ricardoaguadochena.itch.io/lostsignal)
  
@@ -15,7 +16,7 @@ Videogame programmer / Software development
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [arturovilarc@gmail.com](mailto:arturovilarc@gmail.com) for formal talk, and [xohatlatte@gmail.com](mailto:xohatlatte@gmail.com) for informal talk
-* 🧠  I'm learning Javascript, React, Angular, Java, Python, C# applied to .NET
+* 🧠  I'm learning Data science, which includes Python, SQL / MySQL, OpenCV, Statitical Mathematics applied to Data science
 * 🤝  I'm open to collaborating on Proyects
 
 <p align="center">⚡ Additional facts</p>
