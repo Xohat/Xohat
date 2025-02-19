@@ -6,7 +6,7 @@ Videogame programmer / Software development
 
 ### What am i currently working on? 👋
 
-- I am developing 
+- I am doing a Master on Data Science
 - 🔭 I have finished my videogame programming degree
 - The following is my end of degree proyect, the following link will take you to it, hope you enjoy it! [Lost signal](https://ricardoaguadochena.itch.io/lostsignal)
  
