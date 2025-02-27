@@ -1,8 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arturo / I also go by the pseudonym Xohat online
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Arturo / I also go by the pseudonym Xohat online
 ========================================================================================================================================================================
 
-Videogame programmer / Software development
+Data Scientist / Software development
 -------------------------------------------
+
+Hello, im a Ex-Videogame programmer that turned into the Data Science and Software development fields
 
 ### What am i currently working on? 👋
 
