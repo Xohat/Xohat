@@ -14,8 +14,6 @@ Hello, im a Ex-Videogame programmer that turned into the Data Science and Softwa
  
 ![banner](https://github.com/Xohat/Xohat/blob/main/banner.png?raw=true)
 
-- Neon pit, the next proyect from the same studio (Struggle Studio) will release shortly on a v1 version too!
-
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [arturovilarc@gmail.com](mailto:arturovilarc@gmail.com) for formal talk, and [xohatlatte@gmail.com](mailto:xohatlatte@gmail.com) for informal talk
 * 🧠  I'm learning Data science, which includes Python, SQL / MySQL, OpenCV, Statitical Mathematics applied to Data science
